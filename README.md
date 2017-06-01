@@ -2,9 +2,9 @@
 # Initial Setup
 1. Clone this repo onto your machine. 
 1. `cd` into the `/lib` folder and run `npm install`
-2. create a new firebase project
-2. rename `AppConstants-example.js` to `AppConstants.js` and fill in with info from your own firebase database. 
-3. run `hs` in root directory to run local server. 
+2. Create a new firebase project
+2. Rename `AppConstants-example.js` to `AppConstants.js` and fill in with info from your own firebase database. 
+3. If not already installed, run ` npm install http-server -g` to install local http server then run `hs` in root directory of project to launch local server. 
 
 
 ## Requirements
