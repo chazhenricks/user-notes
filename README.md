@@ -19,15 +19,15 @@ Application
 
 1. Create an Angular application module.
 1. Create 4 partials for views.
-  1. A registration view
-  1. A login view
-  1. A new note form
-  1. A note list form
+    1. A registration view
+    1. A login view
+    1. A new note form
+    1. A note list form
 1. Configure your application to support the following routes.
-  1. /register
-  1. /login
-  1. /notes
-  1. /new
+    1. /register
+    1. /login
+    1. /notes
+    1. /new
 1. Write a controller for each of the partials
 1. New Note Form
 
