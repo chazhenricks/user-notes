@@ -1,4 +1,13 @@
-# Requirements
+
+# Initial Setup
+1. Clone this repo onto your machine. 
+1. `cd` into the `/lib` folder and run `npm install`
+2. create a new firebase project
+2. rename `AppConstants-example.js` to `AppConstants.js` and fill in with info from your own firebase database. 
+3. run `hs` in root directory to run local server. 
+
+
+## Requirements
 
 In this exercise, you'll be requiring users to register and log into your application before they can use it. The user interface is very simple once they log in, because this is a basic application that will allow them to enter notes, and then view all notes.
 
